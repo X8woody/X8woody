@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abdulrahman Alaa_Eldin Mohamed </h1>
+<h1 align="center">I'm Abdulrahman Alaa_Eldin Mohamed </h1>
 <h3 align="center">A passionate embedded systems software developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=X8woody&label=Profile%20views&color=0e75b6&style=flat" alt="X8woody" /> </p>
